@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python",
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black"
+}
